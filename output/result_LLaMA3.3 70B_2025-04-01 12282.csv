@@ -1,0 +1,57 @@
+,index,Alignment_Factor,Alignment,predicted_Alignment
+0,0,"
+        ""The climate-related scenarios and associated time horizon(s) considered"": False,
+        ""The potential impact of climate-related issues on financial performance (e.g., revenues, costs) and financial position (e.g., assets, liabilities)"": False,
+        ""How their strategies might change to address such potential risks and opportunities"": False,
+        ""Where they believe their strategies may be affected by climate-related risks and opportunities"": False,
+        ""Transparency in Strategy Testing and Outcomes"": False,
+        ""Strategic Resilience Testing vs. Impact Assessment"": False,
+        ""Preliminary or pilot scenario analysis"": True,
+        ""Comprehensive coverage of business areas and portfolio-specific risks"": False,
+        ""Exclusion of customer-specific transition plans"": True,
+        ""Progression from Qualitative to Quantitative Analysis"": False,
+        ""Sector-Specific Analysis Without Organization-Wide Application"": True,
+        ""Collaborative Scenario Development and Operational Risk Application"": False
+    ",,Unclear
+1,1,"
+        ""The climate-related scenarios and associated time horizon(s) considered"": True,
+        ""The potential impact of climate-related issues on financial performance (e.g., revenues, costs) and financial position (e.g., assets, liabilities)"": False,
+        ""How their strategies might change to address such potential risks and opportunities"": True,
+        ""Where they believe their strategies may be affected by climate-related risks and opportunities"": True,
+        ""Transparency in Strategy Testing and Outcomes"": False,
+        ""Strategic Resilience Testing vs. Impact Assessment"": True,
+        ""Preliminary or pilot scenario analysis"": False,
+        ""Comprehensive coverage of business areas and portfolio-specific risks"": False,
+        ""Exclusion of customer-specific transition plans"": False,
+        ""Progression from Qualitative to Quantitative Analysis"": True,
+        ""Sector-Specific Analysis Without Organization-Wide Application"": False,
+        ""Collaborative Scenario Development and Operational Risk Application"": True
+    ",,Not Aligned
+2,2,"
+        ""The climate-related scenarios and associated time horizon(s) considered"": True,
+        ""The potential impact of climate-related issues on financial performance (e.g., revenues, costs) and financial position (e.g., assets, liabilities)"": True,
+        ""How their strategies might change to address such potential risks and opportunities"": False,
+        ""Where they believe their strategies may be affected by climate-related risks and opportunities"": False,
+        ""Transparency in Strategy Testing and Outcomes"": False,
+        ""Strategic Resilience Testing vs. Impact Assessment"": False,
+        ""Preliminary or pilot scenario analysis"": False,
+        ""Comprehensive coverage of business areas and portfolio-specific risks"": True,
+        ""Exclusion of customer-specific transition plans"": False,
+        ""Progression from Qualitative to Quantitative Analysis"": False,
+        ""Sector-Specific Analysis Without Organization-Wide Application"": False,
+        ""Collaborative Scenario Development and Operational Risk Application"": True
+    ",,Aligned
+3,3,"
+        ""The climate-related scenarios and associated time horizon(s) considered"": True,
+        ""The potential impact of climate-related issues on financial performance (e.g., revenues, costs) and financial position (e.g., assets, liabilities)"": True,
+        ""How their strategies might change to address such potential risks and opportunities"": True,
+        ""Where they believe their strategies may be affected by climate-related risks and opportunities"": True,
+        ""Transparency in Strategy Testing and Outcomes"": True,
+        ""Strategic Resilience Testing vs. Impact Assessment"": True,
+        ""Preliminary or pilot scenario analysis"": False,
+        ""Comprehensive coverage of business areas and portfolio-specific risks"": True,
+        ""Exclusion of customer-specific transition plans"": False,
+        ""Progression from Qualitative to Quantitative Analysis"": False,
+        ""Sector-Specific Analysis Without Organization-Wide Application"": True,
+        ""Collaborative Scenario Development and Operational Risk Application"": True
+    ",,Unclear
